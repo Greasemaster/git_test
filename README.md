@@ -1,2 +1,5 @@
 # git_test2
-my first github reo
+my first github repo!!
+Hello Odin!
+
+
